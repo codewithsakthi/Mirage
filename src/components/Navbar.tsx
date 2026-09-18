@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { Shield, Cpu, Play, Menu, X, ExternalLink } from 'lucide-react';
+import { Shield, Play, Menu, X } from 'lucide-react';
 import { projectMetadata } from '../data/projectData';
 
 export const Navbar: React.FC = () => {
